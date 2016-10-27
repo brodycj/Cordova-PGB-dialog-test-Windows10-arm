@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.brodybits.TestApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>CDV-PGB-dialog-test-Windows10-anyarch</name>
+    <name>CDV-PGB-dialog-test-Windows10-arm</name>
     <description>
-        Cordova PhoneGap Build dialog test app for Windows 10 (any CPU architecture)
+        Cordova PhoneGap Build dialog test app for Windows 10 (arm)
     </description>
     <author email="brodybits@litehelpers.net" href="https://github.com/brodybits">
         @brodybits (Christopher J. Brody aka Chris Brody)
@@ -11,4 +11,5 @@
     <plugin name="cordova-plugin-dialogs" spec="~1.3.0" />
     <preference name="phonegap-version" value="cli-6.3.0" />
     <preference name="windows-appx-target" value="uap" />
+    <preference name="windows-arch" value="arm" />
 </widget>

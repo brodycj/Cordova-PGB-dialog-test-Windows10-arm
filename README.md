@@ -1,4 +1,4 @@
-# Cordova PGB dialog test for Windows 10 (any CPU architecture)
+# Cordova PGB dialog test for Windows 10 (arm)
 
 Demonstrate dialogs working for Windows 10 on PhoneGap Build. Based on: [brodybits / Cordova-sqlite-bootstrap-test](https://github.com/brodybits/Cordova-sqlite-bootstrap-test)
 
